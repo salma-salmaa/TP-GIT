@@ -1,3 +1,7 @@
+<?php
+include ('traitement.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,5 +15,6 @@
     <section>
         <h2> les commande de bases de Git</h2>
     </section>
+    <script src="js/code.js"></script>
 </body>
-</html>
+
